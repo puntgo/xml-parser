@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Inventorys xmlns:str="http://exslt.org/strings" xmlns:xalan="http://xml.apache.org/xalan" xmlns:java="http://xml.apache.org/xslt/java">
+<VendorID>007326879S2U</VendorID>
+<InterchangeControlNumber>000003400</InterchangeControlNumber>
+<TransactionSetIdentifierCode>846</TransactionSetIdentifierCode>
+<Inventory>
+<PurposeCode>00</PurposeCode>
+<ReportTypeCode>DD</ReportTypeCode>
+<ReferenceNumber>0000001984317517</ReferenceNumber>
+<CreateDate>20160130</CreateDate>
+<CreateTime>1800</CreateTime>
+<VendorInformation>
+<IdentifierCode>ZZ</IdentifierCode>
+<VendorNumber>V22215</VendorNumber>
+<Qualifier>92</Qualifier>
+<VendorWarehouseCode>V22215A</VendorWarehouseCode>
+</VendorInformation>
+<SkuItem>
+<LineItemID>1</LineItemID>
+<Qualifier>SK</Qualifier>
+<ItemNumber>FRL-001</ItemNumber>
+<DestinationQty>
+<MeasurementCode>EA</MeasurementCode>
+<Qualifier>92</Qualifier>
+<VendorWarehouseCode>V22215A</VendorWarehouseCode>
+<Quantity>0</Quantity>
+</DestinationQty>
+</SkuItem>
+</Inventory>
+</Inventorys>
